@@ -14,7 +14,7 @@ const Header = () => {
         <div className="container flex mx-auto justify-between items-center">
           <Link
             to={"/"}
-            className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold tracking-tight bg-gradient-to-r from-blue-500 via-teal-500 to-pink-500 bg-clip-text text-transparent hover:scale-105 transform transition-all duration-300 ease-in-out"
+            className="text-2xl sm:text-3xl md:text-4xl lg:text-4xl font-bold tracking-tight bg-gradient-to-r from-blue-500 via-teal-500 to-pink-500 bg-clip-text text-transparent hover:scale-105 transform transition-all duration-300 ease-in-out"
           >
             Fernaz Narin, Ph.D
           </Link>
